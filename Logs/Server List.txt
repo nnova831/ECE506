@@ -1,0 +1,29 @@
+Ping Plotter Config
+2.5 intervals
+~100 pings per server, per session (folders with sessions)
+
+
+University in Minamiuonuma, Japan
+www.iuj.ac.jp
+
+
+Sydney, Australia
+www.whiterabbitcollection.org
+
+
+Park in Cape Town, South Africa
+www.tablemountain.net
+
+
+National Museum of the Philippines
+http://www.nationalmuseum.gov.ph/
+
+
+Zoo City, Nur-Sultan, Kazakhstan
+http://zoocity.kz/
+
+
+
+
+
+
