@@ -1,0 +1,18 @@
+Target Name: www.nationalmuseum.gov.ph
+         IP: 184.107.55.92
+  Date/Time: 7/10/2020 3:03:43 PM - 7/10/2020 3:13:43 PM
+
+Hop  Sent  PL%    Min     Max    Avg  Host Name / [IP]
+  1   100    0   0.25    1.58   0.91  10.0.1.1 [10.0.1.1]
+  2   100  100      0       0      0   [-]
+  3   100    0   7.91   33.31  10.06  096-034-083-005.biz.spectrum.com [96.34.83.5]
+  4   100    0   8.40   31.90  11.02  be34.crr02oxfrma.netops.charter.com [96.34.84.212]
+  5   100    0   8.26   26.96  14.64  bbr01gdisne-bue-2.gdis.ne.charter.com [96.34.2.142]
+  6   100    0  11.90   37.88  18.37  bbr01nwtwct-bue-4.nwtw.ct.charter.com [96.34.0.51]
+  7   100    0  18.71   62.72  25.60  bbr01blvlil-tge-0-0-0-11.blvl.il.charter.com [96.34.0.137]
+  8   100    0  17.03  163.77  34.76  bbr02ashbva-bue-4.ashb.va.charter.com [96.34.3.163]
+  9   100    0  18.84   72.61  24.27  ae10.cr5-was1.ip4.gtt.net [208.116.132.9]
+ 10   100    0  28.58   55.17  34.47  ae16.cr0-mtl1.ip4.gtt.net [89.149.186.134]
+ 11   100    0  29.02   56.50  34.96  iweb-gw.ip4.gtt.net [199.229.229.62]
+ 12   100    0  32.39   74.22  37.44  te9-4.dr11.mtl.iweb.com [184.107.1.234]
+ 13   100    0  32.35   60.05  35.32  www.nationalmuseum.gov.ph [184.107.55.92]

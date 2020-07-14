@@ -1,0 +1,23 @@
+Target Name: www.iuj.ac.jp
+         IP: 202.223.160.72
+  Date/Time: 7/14/2020 12:42:06 PM - 7/14/2020 12:52:06 PM
+
+Hop  Sent  PL%     Min     Max     Avg  Host Name / [IP]
+  1   100    0    0.30    2.38    0.96  10.0.1.1 [10.0.1.1]
+  2   100  100       0       0       0   [-]
+  3   100    0    6.96   13.68    9.12  096-034-083-005.biz.spectrum.com [96.34.83.5]
+  4   100    0    8.05   15.41   10.12  be34.crr02oxfrma.netops.charter.com [96.34.84.212]
+  5   100    0    7.65   22.47   14.20  bbr01gdisne-bue-2.gdis.ne.charter.com [96.34.2.142]
+  6   100    0   27.56   37.90   33.02  bbr01sgnwmi-bue-3.sgnw.mi.charter.com [96.34.0.53]
+  7   100    0   30.41   44.34   36.56  bbr01aldlmi-bue-5.aldl.mi.charter.com [96.34.0.54]
+  8   100    0   35.84   50.46   41.14  bbr01chcgil-bue-805.chcg.il.charter.com [96.34.0.139]
+  9   100    0   37.09   44.07   38.96  chi-b21-link.telia.net [62.115.14.41]
+ 10   100    0   38.77   57.86   40.81  ae-25.r08.chcgil09.us.bb.gin.ntt.net [129.250.8.61]
+ 11   100    0   37.08  109.62   43.44  ae-0.r20.chcgil09.us.bb.gin.ntt.net [129.250.2.191]
+ 12   100    0   81.69  105.18   84.00  ae-7.r23.sttlwa01.us.bb.gin.ntt.net [129.250.3.42]
+ 13   100    0  179.89  196.73  182.67  ae-16.r24.osakjp02.jp.bb.gin.ntt.net [129.250.3.61]
+ 14   100    0  171.39  182.57  175.95  ae-1.r02.osakjp02.jp.bb.gin.ntt.net [129.250.2.40]
+ 15   100    0  171.90  208.78  175.98  ae-1.a01.osakjp02.jp.bb.gin.ntt.net [129.250.3.232]
+ 16   100    0  176.55  195.17  179.84  ae-0.sinet5.osakjp02.jp.bb.gin.ntt.net [61.200.91.154]
+ 17   100    0  179.60  199.42  183.15  niigata-RM-ET-5-1-0-1152.s5.sinet.ad.jp [150.99.90.34]
+ 18    99  100       0       0       0  www.iuj.ac.jp [202.223.160.72]

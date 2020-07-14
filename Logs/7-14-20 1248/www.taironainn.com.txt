@@ -1,0 +1,19 @@
+Target Name: www.taironainn.com
+         IP: 98.129.229.84
+  Date/Time: 7/14/2020 1:15:27 PM - 7/14/2020 1:25:27 PM
+
+Hop  Sent  PL%    Min     Max    Avg  Host Name / [IP]
+  1   304    0   0.21   12.55   1.04  10.0.1.1 [10.0.1.1]
+  2   303  100      0       0      0   [-]
+  3   304    0   5.04   25.88   9.81  096-034-083-005.biz.spectrum.com [96.34.83.5]
+  4   304    0   6.36   25.00  10.30  be34.crr02oxfrma.netops.charter.com [96.34.84.212]
+  5   304    0   8.84   28.47  14.29  bbr01gdisne-bue-2.gdis.ne.charter.com [96.34.2.142]
+  6   304    0  10.86   37.75  17.67  bbr01nwtwct-bue-4.nwtw.ct.charter.com [96.34.0.51]
+  7   304    0  17.84   46.73  24.25  bbr01blvlil-tge-0-0-0-11.blvl.il.charter.com [96.34.0.137]
+  8   304    0  16.28  151.23  25.36  prr01ashbva-bue-6.ashb.va.charter.com [96.34.3.89]
+  9   304    0  15.41   94.36  24.69  ae-10.edge5.WashingtonDC12.Level3.net [4.68.62.61]
+ 10   302   80  91.82   99.73  93.73  ae-2-30.bear2.Phoenix1.Level3.net [4.69.210.161]
+ 11   304    0  79.35   96.12  82.55  LIQUID-WEB.bear2.Phoenix1.Level3.net [4.28.83.26]
+ 12   304    0  78.83   97.87  81.53  lw-dc4-core1-nexus-eth4-3.rtr.liquidweb.com [50.28.96.230]
+ 13   304    0  76.46   90.73  81.78  lw-dc4-dist3-eth4-11-1.rtr.liquidweb.com [50.28.96.241]
+ 14   304    0  79.13   94.79  81.42  www.taironainn.com [98.129.229.84]
