@@ -1,0 +1,16 @@
+Target Name: www.whiterabbitcollection.org
+         IP: 35.201.25.177
+  Date/Time: 7/17/2020 1:05:21 PM - 7/17/2020 1:15:21 PM
+
+Hop  Sent  PL%     Min     Max     Avg  Host Name / [IP]
+  1   304    0    0.28    1.68    0.98  10.0.1.1 [10.0.1.1]
+  2   303  100       0       0       0   [-]
+  3   304    0    4.72   19.17   10.91  096-034-083-005.biz.spectrum.com [96.34.83.5]
+  4   304    0    6.19   52.45   11.51  be34.crr02oxfrma.netops.charter.com [96.34.84.212]
+  5   304    0    6.85   50.64   14.80  bbr01gdisne-bue-2.gdis.ne.charter.com [96.34.2.142]
+  6   304    0   10.89   47.74   18.62  bbr01nwtwct-bue-4.nwtw.ct.charter.com [96.34.0.51]
+  7   304    0   18.72   38.61   25.30  bbr01blvlil-tge-0-0-0-11.blvl.il.charter.com [96.34.0.137]
+  8   304    0   15.15  101.34   23.70  prr01ashbva-bue-6.ashb.va.charter.com [96.34.3.89]
+  9   304    0   15.06   96.20   21.18  096-034-148-035.biz.spectrum.com [96.34.148.35]
+ 10   303  100       0       0       0   [-]
+ 11   304    0  225.44  254.75  230.35  www.whiterabbitcollection.org [35.201.25.177]

@@ -1,0 +1,16 @@
+Target Name: www.dodo-sushi.com
+         IP: 35.185.81.122
+  Date/Time: 7/17/2020 3:13:02 PM - 7/17/2020 3:23:02 PM
+
+Hop  Sent  PL%    Min     Max    Avg  Host Name / [IP]
+  1   304    0   0.17    1.61   0.90  10.0.1.1 [10.0.1.1]
+  2   303  100      0       0      0   [-]
+  3   304    0   5.40   17.27   9.37  096-034-083-005.biz.spectrum.com [96.34.83.5]
+  4   304    0   5.68   20.41  10.05  be34.crr02oxfrma.netops.charter.com [96.34.84.212]
+  5   304    0   6.95   26.04  13.79  bbr01gdisne-bue-2.gdis.ne.charter.com [96.34.2.142]
+  6   304    0  11.86   27.35  17.48  bbr01nwtwct-bue-4.nwtw.ct.charter.com [96.34.0.51]
+  7   304    0  18.61   35.44  24.01  bbr01blvlil-tge-0-0-0-11.blvl.il.charter.com [96.34.0.137]
+  8   304    0  18.45  106.06  25.21  prr01ashbva-bue-6.ashb.va.charter.com [96.34.3.89]
+  9   304    0  18.34   30.15  20.25  204.15.20.161 [204.15.20.161]
+ 10   303  100      0       0      0   [-]
+ 11   304    0  30.06   40.36  31.93  www.dodo-sushi.com [35.185.81.122]

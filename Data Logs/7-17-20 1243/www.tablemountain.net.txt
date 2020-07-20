@@ -1,0 +1,24 @@
+Target Name: www.tablemountain.net
+         IP: 195.201.98.191
+  Date/Time: 7/17/2020 1:15:36 PM - 7/17/2020 1:25:36 PM
+
+Hop  Sent  PL%     Min     Max     Avg  Host Name / [IP]
+  1   300    0    0.26    1.69    0.97  10.0.1.1 [10.0.1.1]
+  2   300  100       0       0       0   [-]
+  3   300    0    6.27   18.90   10.75  096-034-083-005.biz.spectrum.com [96.34.83.5]
+  4   300    0    7.28   22.95   11.46  be34.crr02oxfrma.netops.charter.com [96.34.84.212]
+  5   300    0    8.84   26.40   14.94  bbr01gdisne-bue-2.gdis.ne.charter.com [96.34.2.142]
+  6   300    0   12.07   31.61   18.68  bbr01nwtwct-bue-4.nwtw.ct.charter.com [96.34.0.51]
+  7   300    0   18.71   34.32   24.99  bbr01blvlil-tge-0-0-0-11.blvl.il.charter.com [96.34.0.137]
+  8   300    0   15.82   85.13   23.30  prr01ashbva-bue-6.ashb.va.charter.com [96.34.3.89]
+  9   300    0   15.86   57.55   23.64  ae-10.edge5.WashingtonDC12.Level3.net [4.68.62.61]
+ 10   300   98   91.84   95.49   93.36  ae-1-3113.ear2.London1.Level3.net [4.69.132.138]
+ 11   300    0  102.78  197.79  106.82  ae0-3356.lon10.core-backbone.com [212.113.8.42]
+ 12   300    0  101.41  147.42  106.05  ae10-2021.fra20.core-backbone.com [80.255.14.6]
+ 13   300    0  100.79  201.37  110.74  core-backbone.hetzner.com [80.255.15.122]
+ 14   300    0  108.33  136.11  113.39  core11.nbg1.hetzner.com [213.239.224.233]
+ 15   300    0  105.15  134.69  111.06  spine1.cloud1.nbg1.hetzner.com [85.10.250.210]
+ 16   300  100       0       0       0   [-]
+ 17   300    0  106.37  134.81  113.22  11817.your-cloud.host [116.203.160.4]
+ 18   300  100       0       0       0   [-]
+ 19   300    0  106.37  126.53  113.50  www.tablemountain.net [195.201.98.191]
